@@ -1,0 +1,16 @@
+# Whether to show titles when a player falls into the void or respawns
+show_titles: true
+
+# Whether to show subtitles when a player falls into the void or respawns
+show_subtitles: true
+
+# The title message to display when a player falls into the void or respawns
+title: "You got saved!"
+
+# The subtitle message to display when a player falls into the void or respawns
+subtitle: "You have been teleported back to the spawn."
+
+# The duration (in ticks) of title fade-in, stay, and fade-out animation
+title_fade_in: 10
+title_stay: 40
+title_fade_out: 10
