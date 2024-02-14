@@ -5,7 +5,7 @@ declare(strict_types=1);
 namespace Terpz710\EventListener;
 
 use pocketmine\event\Listener;
-use pocketmine\event\player\PlayerMoveEvent
+use pocketmine\event\player\PlayerMoveEvent;
 use pocketmine\player\Player;
 use pocketmine\utils\TextFormat;
 
