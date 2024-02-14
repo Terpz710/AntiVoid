@@ -1,6 +1,6 @@
 name: AntiVoid
 version: 1.0.0
-api: [5.0.0]
+api: [5.0.0, 6.0.0]
 author: Terpz710
 main: Terpz710\AntiVoid
 description: A plugin used by BlueGamesNetwork to prevent players from falling into the void.
