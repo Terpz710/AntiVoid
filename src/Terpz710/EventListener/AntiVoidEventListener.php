@@ -35,7 +35,7 @@ class AntiVoidEventListener implements Listener {
         if ($y < 0) {
             $player->teleport($player->getWorld()->getSpawnLocation());
             $title = $this->plugin->getConfig()->get("title");
-            $subtitle = $this->plugin->getConfig()->get("subtitle"");
+            $subtitle = $this->plugin->getConfig()->get("subtitle");
             if ($this->showTitles) {
                 $player->sendTitle($title);
             }
